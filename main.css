@@ -112,3 +112,11 @@ section h2 {
 #saude .articles article a {
     background-color: red;
 }
+
+#politica {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#politica .articles article a {
+    background-color: black;
+}
