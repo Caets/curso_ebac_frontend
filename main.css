@@ -1,0 +1,35 @@
+main {
+    text-align: center;
+    width: 100%;
+    margin: 0px 0;
+}
+
+form textarea, input, select {
+    display: block;
+    border-radius: 2px;
+    border: none;
+    background: #DDDDDD;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+form textarea {
+    width: 625px;
+    padding: 10px;
+    height: 212px;
+}
+
+form select {
+    width: 625px;
+    padding: 10px 12px;
+}
+
+.formulario .button {
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
